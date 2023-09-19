@@ -1,0 +1,8 @@
+/* var стили в главном style  */
+.nav-link{
+    color: var(--secondary-color);
+}
+.active-link{
+   color: var(--primary-color); 
+   text-decoration: underline;
+}
